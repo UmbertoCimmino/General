@@ -8,7 +8,7 @@
 Mi chiamo **Umberto Cimmino** e sono uno studente del primo anno della laurea triennale in **Informatica**.
 Mi sono diplomato come **Perito Informatico presso l'I.I.S. Antonio Pacinotti**.
 
-#Competenze
+# Competenze
 - Programmazione in **C**
 - Implementazioni dati e algoritmi
 - Sistemi operativi e ambiente Linux
